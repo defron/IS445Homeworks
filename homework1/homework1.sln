@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pure HTML Project1", "Pure HTML Project1\Pure HTML Project1.csproj", "{BC6D1812-9E2E-4EAE-AA9A-D9B48CC9E1E5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homework1", "homework1.csproj", "{BC6D1812-9E2E-4EAE-AA9A-D9B48CC9E1E5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
