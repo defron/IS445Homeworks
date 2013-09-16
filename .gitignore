@@ -41,6 +41,13 @@ local.properties
 *.user
 *.sln.docstates
 
+#added by defron
+*.csproj
+*.sln
+*.config
+[Pp]roperties/
+
+
 # Build results
 
 [Dd]ebug/
