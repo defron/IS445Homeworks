@@ -12,22 +12,13 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -------------------------------------------------*/
-a {
-    font-family: Arial, Verdana, sans-serif;
-    line-height: 1.4em;
-    color: #ee2211;
-}
 p {
     font-size: 22px;
 }
 ul{
-    padding-top: 0px;
-    margin-top: 0px;
     margin-left: 30px;
 }
 ol {
-    padding-top: 0px;
-    margin-top: 0px;
     margin-left: 40px;
 }
 #wrapper {
